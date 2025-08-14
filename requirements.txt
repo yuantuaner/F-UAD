@@ -1,0 +1,8 @@
+pandas
+tqdm
+matplotlib
+dgl==0.6.0
+numpy
+SciencePlots
+scikit-learn
+xlrd==1.2.0
